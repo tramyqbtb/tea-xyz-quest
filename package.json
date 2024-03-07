@@ -1,0 +1,9 @@
+{
+  "name": "@tramyqbtb/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@tramyqbtb",
+  "repository": "https://github.com/tramyqbtb/tea-xyz-quest",
+  "license": "ISC"
+}
